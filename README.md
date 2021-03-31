@@ -1,4 +1,4 @@
-# [👋 Hi, I’m @TheGamerDog] (https://github.com/TheGamerDog)
+# 👋 Hi, I’m [@TheGamerDog](https://github.com/TheGamerDog)
 
 - 🐶 DOG.
 - 🎉 Programmer from Russia.
