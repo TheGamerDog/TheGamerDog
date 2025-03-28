@@ -5,9 +5,7 @@
 
 - 👨‍💻 Coder, RE engineer 
 - 😎 I'm working on something cool.
-- 🐶 DOG.
 - ♥ Favorite programming language is anything but legacy, dude.
-- 🎁 Work experience: **5 years**
 
 <h1 align="center">My skills</h1>
 
